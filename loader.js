@@ -1,0 +1,1 @@
+let partBlock = document.querySelector("#participants");
